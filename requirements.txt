@@ -1,0 +1,7 @@
+python-dotenv
+torch
+wandb
+numpy
+info-nce-pytorch
+tqdm
+fashion-clip
